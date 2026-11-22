@@ -1,0 +1,14 @@
+
+.black-ops-one-regular {
+  font-family: "Black Ops One", system-ui !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+}
+
+body{
+    background-color: color-mix(in srgb, #999b82 15%,  #58540f  15%);
+}
+
+.wallpaper{
+    background: linear-gradient( 90deg, #999b82, #58540f) !important;
+}
